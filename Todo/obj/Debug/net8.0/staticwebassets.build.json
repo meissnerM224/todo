@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gK5lf52ZrudEC4LnxT2gc4OQP5zYpj2L78EbcnnyM/Q=",
+  "Hash": "4x57+QGF2kXoWiCnsiTds/y61j+BQxsxyjuAJQLcTl4=",
   "Source": "Todo",
   "BasePath": "_content/Todo",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mertc\\Documents\\projects\\todo\\Todo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Todo.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\mertc\\Documents\\projects\\todo\\Todo\\wwwroot\\css\\assets\\images\\sternenhimmel.jpg",
+      "SourceId": "Todo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mertc\\Documents\\projects\\todo\\Todo\\wwwroot\\",
+      "BasePath": "_content/Todo",
+      "RelativePath": "css/assets/images/sternenhimmel.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\assets\\images\\sternenhimmel.jpg"
     },
     {
       "Identity": "C:\\Users\\mertc\\Documents\\projects\\todo\\Todo\\wwwroot\\css\\site.css",

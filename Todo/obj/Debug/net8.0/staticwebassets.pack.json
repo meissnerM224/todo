@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Todo.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\mertc\\Documents\\projects\\todo\\Todo\\wwwroot\\css\\assets\\images\\sternenhimmel.jpg",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\sternenhimmel.jpg"
+    },
+    {
       "Id": "C:\\Users\\mertc\\Documents\\projects\\todo\\Todo\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
